@@ -13,10 +13,10 @@
 
 <p>1. download all files from github</p>
 <p>2. open command prompt</p>
-<p>3. cd</p>
+<p>3. typ this in the command prompt </p>
 
 ```
-(in the tudou directory)
+cd (in the tudou directory)
 ```
 <p>4. run the tudou.php file</p>
 
