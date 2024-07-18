@@ -8,11 +8,16 @@
 <h2>Commands</h2>
 <p><img src="https://i.postimg.cc/3N371fGZ/image.png" alt="shields"></p>
 
+<h2>Links</h2>
+<p>tudou discord server https://discord.gg/cWXVW8mwJs</p>
+<p>tudou invite https://discord.com/oauth2/authorize?client_id=1260317610059501570&scope=bot&permissions=8</p>
+
+
 <h1>Installation requirements </h1>
 <P>php 8.3 https://www.php.net/downloads.php </P>
 
-<h2>Installation Steps</h2>
 
+<h2>Installation Steps</h2>
 <p>open command prompt</p>
 
 ```
