@@ -13,7 +13,7 @@
 
 <p>1. download all files from github</p>
 ```
-cd (in the tudou directory)
+https://github.com/deplantis/tudou-discord-bot.git
 ```
 <p>2. open command prompt</p>
 <p>3. typ this in the command prompt </p>
