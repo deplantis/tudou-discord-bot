@@ -8,7 +8,7 @@
 <h2>Commands</h2>
 <p><img src="https://i.postimg.cc/3N371fGZ/image.png" alt="shields"></p>
 
-<h2> Installation requirements </h2>
+## Installation requirements 
 <P>php 8.3 https://www.php.net/downloads.php </P>
 
 <h2>Installation Steps</h2>
