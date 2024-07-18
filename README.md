@@ -9,7 +9,9 @@
 <p><img src="https://i.postimg.cc/3N371fGZ/image.png" alt="shields"></p>
 
 <h2>Usage</h2>
-<div style="position:relative; width:100%; height:0px; padding-bottom:83.611%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/g0ii6u?" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+https://github.com/user-attachments/assets/286ab1ed-7020-49f8-95d3-735d1d4663b8
+
 
 
 <h2>Links</h2>
