@@ -13,9 +13,14 @@
 <p>1. download all files from github</p>
 
 ```
-https://github.com/deplantis/tudou-discord-bot.git
+curl -L -O https://github.com/deplantis/tudou-discord-bot/
 ```
 <p>2. open command prompt</p>
+
+```
+Press the Windows Key + R, type in cmd.exe, and press Enter (in windows)
+```
+
 <p>3. typ this in the command prompt </p>
 
 ```
