@@ -5,4 +5,6 @@
 <h1  id="title">Tudou discord bot</h1>
 <p id="description">A discord bot that generate tudou pictures!!</p>
 
-<h2>🚀 Demo</h2>
+
+<h2>Commands</h2>
+<p><img src="https://i.postimg.cc/3N371fGZ/image.png" alt="shields"></p>
