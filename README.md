@@ -9,7 +9,7 @@
 <p><img src="https://i.postimg.cc/3N371fGZ/image.png" alt="shields"></p>
 
 <h2>Links</h2>
-<p>tudou discord server https://discord.gg/cWXVW8mwJs</p>
+<p>tudou discord server https://discord.gg/cWXVW8mwJs</p> <br>
 <p>tudou invite https://discord.com/oauth2/authorize?client_id=1260317610059501570&scope=bot&permissions=8</p>
 
 
