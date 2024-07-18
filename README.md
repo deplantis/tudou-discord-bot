@@ -10,17 +10,17 @@
 
 <h2>Installation Steps</h2>
 
-<p>1. download all files from github</p>
-
-```
-curl -L -O https://github.com/deplantis/tudou-discord-bot/
-```
-<p>2. open command prompt</p>
+<p>1. open command prompt</p>
 
 ```
 Press the Windows Key + R, type in cmd.exe, and press Enter (in windows)
 ```
 
+<p>1. download all files from github</p>
+
+```
+curl -L -O https://github.com/deplantis/tudou-discord-bot/
+```
 <p>3. typ this in the command prompt </p>
 
 ```
