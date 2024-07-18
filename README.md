@@ -5,7 +5,7 @@
 <p id="description">A discord bot that generate tudou pictures!!</p>
 
 
-<p>Commands</p>
+<h2>Commands</h2>
 <p><img src="https://i.postimg.cc/3N371fGZ/image.png" alt="shields"></p>
 
 <h1>Installation requirements </h1>
