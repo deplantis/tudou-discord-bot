@@ -31,3 +31,5 @@ cd (in the tudou directory)
 ```
 php tudou.php
 ```
+# Installation requirements
+php 8.3 https://www.php.net/downloads.php
