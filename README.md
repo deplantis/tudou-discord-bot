@@ -12,14 +12,11 @@
 
 https://github.com/user-attachments/assets/286ab1ed-7020-49f8-95d3-735d1d4663b8
 
-
-
 <h2>Links</h2>
 <p>tudou discord server https://discord.gg/cWXVW8mwJs <br>tudou invite https://discord.com/oauth2/authorize?client_id=1260317610059501570&scope=bot&permissions=8</p> 
 
 <h1>Installation requirements </h1>
-<P>php 8.3 https://www.php.net/downloads.php </P>
-<P>Composer https://getcomposer.org/download </P>
+<P>php 8.3 https://www.php.net/downloads.php <br>Composer https://getcomposer.org/download  </P>
 
 <h2>Installation Steps</h2>
 <p>open command prompt</p>
