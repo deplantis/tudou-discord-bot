@@ -12,6 +12,9 @@
 <h2>Installation Steps</h2>
 
 <p>1. download all files from github</p>
+```
+cd (in the tudou directory)
+```
 <p>2. open command prompt</p>
 <p>3. typ this in the command prompt </p>
 
