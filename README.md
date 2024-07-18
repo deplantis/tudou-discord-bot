@@ -8,3 +8,18 @@
 
 <h2>Commands</h2>
 <p><img src="https://i.postimg.cc/3N371fGZ/image.png" alt="shields"></p>
+
+<h2>Installation Steps</h2>
+
+<p>1. download all files from github</p>
+<p>2. open command prompt</p>
+<p>3. cd</p>
+
+```
+(in the tudou directory)
+```
+<p>4. run the tudou.php file</p>
+
+```
+php tudou.php
+```
