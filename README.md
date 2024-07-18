@@ -24,7 +24,7 @@ Press the Windows Key + R, type in cmd.exe, and press Enter (in windows)
 <p>3. typ this in the command prompt </p>
 
 ```
-cd (in the tudou directory)
+cd (In the tudou directory, where the tudou.php file is located)
 ```
 <p>4. run the tudou.php file</p>
 
