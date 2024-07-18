@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://i.imgur.com/HxMhYWQ_d.webp?maxwidth=760&fidelity=grand" alt="project-image"></p>
+<p align="center"><img src="https://i.postimg.cc/nzgBQ7QZ/rsz-1schermafbeelding-2024-07-18-223921.png" alt="project-image"></p>
 <h1 align="center" id="title">Tudou discord bot</h1>
 <p id="description">A discord bot that generate tudou pictures!!</p>
 
