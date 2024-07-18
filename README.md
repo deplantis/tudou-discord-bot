@@ -19,7 +19,7 @@ https://github.com/user-attachments/assets/286ab1ed-7020-49f8-95d3-735d1d4663b8
 
 <h1>Installation requirements </h1>
 <P>php 8.3 https://www.php.net/downloads.php </P>
-
+<P>Composer https://getcomposer.org/download </P>
 
 <h2>Installation Steps</h2>
 <p>open command prompt</p>
