@@ -2,7 +2,7 @@
 
 <p><img src="https://i.postimg.cc/nzgBQ7QZ/rsz-1schermafbeelding-2024-07-18-223921.png" alt="project-image"></p>
 <h1  id="title">Tudou discord bot</h1>
-<p id="description">A discord bot that generate tudou pictures!!</p>
+<p id="description">A Discord bot that sends Tudou pictures</p>
 
 
 <h2>Commands</h2>
