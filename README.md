@@ -30,7 +30,7 @@ Press the Windows Key + R, type in cmd.exe, and press Enter (in windows)
 ```
 curl -L -O https://github.com/deplantis/tudou-discord-bot/
 ```
-<p>typ this in the command prompt </p>
+<p>navigate to the directory containing the tudou.php </p>
 
 ```
 cd (In the tudou directory, where the tudou.php file is located)
