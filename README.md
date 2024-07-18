@@ -38,6 +38,11 @@ curl -L -O https://github.com/deplantis/tudou-discord-bot/
 ```
 cd (In the tudou directory, where the tudou.php file is located)
 ```
+<p>Install discord php with composer </p>
+
+```
+composer require team-reflex/discord-php
+```
 <p>run tudou.php</p>
 
 ```
