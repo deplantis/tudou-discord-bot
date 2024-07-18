@@ -35,12 +35,12 @@ curl -L -O https://github.com/deplantis/tudou-discord-bot/
 ```
 cd (In the tudou directory, where the tudou.php file is located)
 ```
-<p>Install discord php with composer </p>
+<p>install discord php with composer </p>
 
 ```
 composer require team-reflex/discord-php
 ```
-<p>Change the discord token</p>
+<p>change the discord bot token</p>
 
 ```
 go to tudou class/tudou.php , change the $token variable in the Tudou class to you own bot token
