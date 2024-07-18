@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://i.postimg.cc/X7Tdvw6g/image-1.png" alt="project-image"></p>
+<p align="center"><img src="" alt="project-image"></p>
 <h1 align="center" id="title">Tudou discord bot</h1>
 <p id="description">A discord bot that generate tudou pictures!!</p>
 
