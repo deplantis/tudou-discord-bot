@@ -10,23 +10,23 @@
 
 <h2>Installation Steps</h2>
 
-<p>1. open command prompt</p>
+<p>open command prompt</p>
 
 ```
 Press the Windows Key + R, type in cmd.exe, and press Enter (in windows)
 ```
 
-<p>1. download all files from github</p>
+<p>download all files from github</p>
 
 ```
 curl -L -O https://github.com/deplantis/tudou-discord-bot/
 ```
-<p>3. typ this in the command prompt </p>
+<p>typ this in the command prompt </p>
 
 ```
 cd (In the tudou directory, where the tudou.php file is located)
 ```
-<p>4. run tudou.php</p>
+<p>run tudou.php</p>
 
 ```
 php tudou.php
