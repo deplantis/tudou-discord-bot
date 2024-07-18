@@ -40,6 +40,11 @@ cd (In the tudou directory, where the tudou.php file is located)
 ```
 composer require team-reflex/discord-php
 ```
+<p>Change the discord token</p>
+
+```
+go to tudou class/tudou.php , change the $token variable in the Tudou class to you own bot token
+```
 <p>run tudou.php</p>
 
 ```
