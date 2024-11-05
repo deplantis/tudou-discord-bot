@@ -38,7 +38,7 @@ $discord->on(Event::MESSAGE_CREATE, function (Message $message, Discord $discord
         $embed->addFieldValues("tudou!help", "give the list of all commands of the bot", false);
         $embed->addFieldValues("tudou!information", "give information about the bot", false);
         $embed->addFieldValues("tudou!generate / tudou!imagine", "give aa randomm generatedd TUDOUU PICTUREE!! :DD YAYY", false);
-        $embed->addFieldValues("tudou!choice (number)", "choice a specific tudou picture", false);
+        $embed->addFieldValues("tudou!choose (number)", "choice a specific tudou picture", false);
         $embed->setColor(0xff8890);
         $message->channel->sendEmbed($embed);
     }
@@ -62,7 +62,7 @@ $discord->on(Event::MESSAGE_CREATE, function (Message $message, Discord $discord
     }
 
 
-    if (substr($messagecontent ,0, 13) == "tudou!choice ") 
+    if (substr($messagecontent ,0, 13) == "tudou!choose ") 
     {
         $response = substr($messagecontent ,13,  strlen($messagecontent));
         
