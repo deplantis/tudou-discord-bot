@@ -73,7 +73,7 @@ $discord->on(Event::MESSAGE_CREATE, function (Message $message, Discord $discord
         else
         {
             $embed = new Embed($discord);
-            $embed->setTitle("tudou!choice");
+            $embed->setTitle("tudou!choose");
             $embed->addFieldValues("error","invalid parameter", false);
             $embed->setColor($Tudou->config->hexcode);
             $message->channel->sendEmbed($embed);
