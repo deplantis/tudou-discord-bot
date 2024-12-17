@@ -183,7 +183,7 @@ class tudou
        {
 
         $embed = new Embed($discord);
-        $embed->setTitle("tudou!choice");
+        $embed->setTitle("tudou!choose");
         $embed->addFieldValues("error","invalid range, max is ". $this->config->imaginecount);
         $embed->setColor($this->config->hexcode);
         $message->channel->sendEmbed($embed);
